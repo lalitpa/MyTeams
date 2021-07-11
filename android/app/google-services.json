@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "566829054147",
+    "project_id": "my-teams-c6b64",
+    "storage_bucket": "my-teams-c6b64.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:566829054147:android:99caab2d26beba5fe4ca76",
+        "android_client_info": {
+          "package_name": "com.hs.myteams"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "566829054147-mvj00chbb0sjststp6os0n7hhovnvcnt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3_IxwWDHmCTWDejya3rsHKLuaqlBVMGg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "566829054147-mvj00chbb0sjststp6os0n7hhovnvcnt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
